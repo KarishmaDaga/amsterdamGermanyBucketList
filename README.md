@@ -18,6 +18,7 @@
 #### Walking Tours: 
 
 #### Activities & Sights:
+- Keukenhof: flower garden 
 
 #### Food: 
 - Foodhallen
@@ -25,8 +26,18 @@
 #### Areas: 
 
 #### Day trips: 
-- Maastricht
-- Antwerpen (Berlin)
+- Antwerpen
+- Brussels 
+
+## Paris, France 
+
+#### Walking Tours: 
+
+#### Activities & Sights:
+
+#### Food: 
+
+#### Areas: 
 
 ## Germany
 
